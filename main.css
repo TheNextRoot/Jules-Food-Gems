@@ -1,0 +1,79 @@
+body {
+background-color: powderblue;
+}
+
+h1 {
+    text-align: center; 
+    font-size: 60px;
+    font-family: sofia;
+}
+
+.center {
+    text-align: center;
+    font-family: bubblegum sans;
+    font-size: 30px
+    
+}
+
+.gyro {
+    border-radius: 8px
+}    
+
+.gyro_text {
+    font-size: 20px;
+    font-family: bubblegum sans;
+}
+
+.burger {
+    border-radius: 8px
+}
+
+.burger_text {
+    font-size: 20px;
+    font-family: bubblegum sans;
+}
+
+.pad-thai {
+    border-radius: 8px
+}
+
+.pad-thai_text {
+    font-size: 20px;
+    font-family: bubblegum sans;
+}
+
+.mangu {
+    border-radius: 8px
+}
+
+.mangu_text {
+    font-size: 20px;
+    font-family: bubblegum sans;
+}
+
+.maduros {
+    border-radius: 8px
+}
+
+.maduros_text {
+    font-size: 20px;
+    font-family: bubblegum sans;
+}
+
+.middle {
+    text-align: center;
+    font-size: 60px;
+    font-family: sofia
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Acme;
+}
+
+.cutlery {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
